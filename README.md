@@ -1,4 +1,6 @@
 ### Hi there 👋
+🌱 I’m currently learning machine learning, web development and python programming
+ 🤔 I’m looking for help with machine learning models
 
 <!--
 **mibma/mibma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
