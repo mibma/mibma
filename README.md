@@ -22,8 +22,8 @@ I'm a passionate computer science student at IBA Karachi, with a keen interest i
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?mibma=mibma&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mibma=mibma&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mibma&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibma&layout=compact&theme=radical)
 
 
 
@@ -33,5 +33,5 @@ I'm a passionate computer science student at IBA Karachi, with a keen interest i
 - [GitHub](https://github.com/mibma)
 - [Email](mailto:muibmay@gmail.com)
 
-![Footer Image]([https://yourfooterimageurl.com](https://media.licdn.com/dms/image/D4E03AQGWZMpls74U6A/profile-displayphoto-shrink_800_800/0/1692260203220?e=1724889600&v=beta&t=KN_lgH9ZZ7RllXg9vNayqGVCSVMm2HpQxlxbTrnVvGQ))
+
 
