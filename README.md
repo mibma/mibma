@@ -1,6 +1,3 @@
-To add logos for each technology in your GitHub README, you can use Markdown with image URLs pointing to the logos. Here’s how you can update your README:
-
----
 
 # 👋 Hello, I'm Ibrahim Ayoubi!
 
